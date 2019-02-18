@@ -1,11 +1,11 @@
 # These and other macros are documented in dhd/droid-hal-device.inc
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
-%define device cheeseburger
-%define vendor oneplus
+%define device whyred
+%define vendor xiaomi
 
-%define vendor_pretty OnePlus
-%define device_pretty OnePlus5
+%define vendor_pretty Xiaomi
+%define device_pretty RedmiNote5
 
 %define installable_zip 1
 
